@@ -49,6 +49,7 @@ const Wrap = styled.div`
 const ItemText = styled.div`
     padding-top: 15vh;
     text-align: center;
+    font-size: 20px;
 `
 
 const ButtonGroup = styled.div`
@@ -68,7 +69,7 @@ const LeftButton = styled.div`
     border-radius: 100px;
     opacity: 0.85;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 15px;
     cursor: pointer;
     margin: 8px;
     justify-content: center;
