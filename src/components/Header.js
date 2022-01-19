@@ -40,9 +40,7 @@ function Header() {
 
                 <li><a href='#'>Exisiting Inventory</a></li>
                 <li><a href='#'>Used Inventory</a></li>
-                <li><a href='#'>Trade-in</a></li>
                 <li><a href='#'>Test Drive</a></li>
-                <li><a href='#'>CyberTruck</a></li>
                 <li><a href='#'>Charging</a></li>
                 <li><a href='#'>Powerwall</a></li>
                 <li><a href='#'>Utilities</a></li>
