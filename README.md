@@ -1,8 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Deployed Heroku App
+## `Deployed Heroku App`
 
 https://tesla-unofficial.herokuapp.com/
+
+## Overview
+
+![image](https://user-images.githubusercontent.com/69163882/151551556-3398d9f2-3a41-4634-9456-b9519caf3b46.png)
+
 
 ## Available Scripts
 
